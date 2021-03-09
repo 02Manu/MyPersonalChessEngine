@@ -1,0 +1,16 @@
+C:\Users\Utente\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp5.0\ConsoleApp11.exe
+C:\Users\Utente\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp5.0\ConsoleApp11.deps.json
+C:\Users\Utente\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp5.0\ConsoleApp11.runtimeconfig.json
+C:\Users\Utente\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp5.0\ConsoleApp11.runtimeconfig.dev.json
+C:\Users\Utente\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp5.0\ConsoleApp11.dll
+C:\Users\Utente\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp5.0\ref\ConsoleApp11.dll
+C:\Users\Utente\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp5.0\ConsoleApp11.pdb
+C:\Users\Utente\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp5.0\ConsoleApp11.csprojAssemblyReference.cache
+C:\Users\Utente\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp5.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp5.0\ConsoleApp11.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp5.0\ConsoleApp11.AssemblyInfo.cs
+C:\Users\Utente\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp5.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp5.0\ConsoleApp11.dll
+C:\Users\Utente\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp5.0\ref\ConsoleApp11.dll
+C:\Users\Utente\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp5.0\ConsoleApp11.pdb
+C:\Users\Utente\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp5.0\ConsoleApp11.genruntimeconfig.cache
